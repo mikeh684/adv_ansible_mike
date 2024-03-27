@@ -1,0 +1,30 @@
+https://github.com/jruels/adv-ansible/blob/main/labs/ansible-vault/ansible_vault_intro.md
+
+https://github.com/prodataman/adv_ansible_working
+
+https://github.com/mikeh684/adv_ansible
+
+https://github.com/mikeh684/adv_ansible_working
+
+https://github.com/mikeh684/adv_ansible_mike
+
+
+git add .
+
+git commit -m "mike"
+
+git push --mirror https://github.com/mikeh684/adv_ansible_mike.git
+
+
+git pull https://github.com/mikeh684/adv_ansible_mike
+
+
+https://www.cloudbees.com
+
+
+https://github.com/prodataman/Ansible-Intro//blob/master/ReadMe.md
+AWS ami information
+
+https://github.com/prodataman/Ansible-Intro//blob/master/Include%20Tasks.md
+
+
