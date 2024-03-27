@@ -1,0 +1,4 @@
+---
+- lineinfile:
+    line: "{{ ansible_default_ipv4.address }} node1.example.com"
+    path: /etc/hosts

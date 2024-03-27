@@ -1,1 +1,3 @@
 ---
+- name: configure motd
+  import_tasks: deploy_motd.yml
