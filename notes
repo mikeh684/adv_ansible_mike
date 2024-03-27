@@ -8,3 +8,14 @@ https://github.com/mikeh684/adv_ansible_working
 
 https://github.com/mikeh684/adv_ansible_mike
 
+
+git add .
+
+git commit -m "mike"
+
+git push --mirror https://github.com/mikeh684/adv_ansible_mike.git
+
+
+git pull https://github.com/mikeh684/adv_ansible_mike
+
+
