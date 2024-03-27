@@ -1,4 +1,3 @@
----
 - hosts: localhost
   tasks:
     - name: Test that my module works
